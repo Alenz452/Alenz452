@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Alenz452
 - 👀 I’m interested in all branch of computer science 
--     and I'm addicted in every knowledge in computer science.
+-     and I'm addicted in every knowledge of computer science.
 - 🌱 I’m currently learning cybersecurity,android app development & web-development.
 
 <!---
